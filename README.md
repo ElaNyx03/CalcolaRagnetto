@@ -13,6 +13,15 @@
 
 <div align="center">
 <h2> CalcolaRagnetto è una semplice calcolatrice programmata in python </h2>
+
+
+<img width="100%" src="Schermata del 2023-05-27 10-30-40.png" />
+
+
+
+
+
+  
 <img src="https://media.tenor.com/_E-NCczd1nYAAAAj/python.gif" width="50px">  
 </div>
 
