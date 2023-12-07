@@ -3,8 +3,7 @@
 from math import sqrt
 
 hello_message = """
-Benvenuti in calcolatrice.
-       RAGNETTO
+Benvenuti in CALCOLARAGNETTO
 
 ░░░░░░░░░░░║░░░░░░░░░░░░
 ░░▄█▀▄░░░░░║░░░░░░▄▀▄▄░░
